@@ -1,1 +1,1 @@
-# TensorFlow-Day_20180915
+# TensorFlow-Day_20180915  from GDG Tianjin
